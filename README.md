@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ian Clark Cañete</h1>
-<h3 align="center">Hi I am a programming enthusiast with a passion for learning new technologies. I thrive on the excitement of continuous learning and enjoy tackling new challenges. I also have experience working as a customer service representative, which has helped me develop strong communication skills.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
