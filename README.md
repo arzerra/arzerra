@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express and Vue**
 
-- 💬 Ask me about **React** & **Laravel*
+- 💬 Ask me about **React** & **Laravel**
 
 - ⚡ Fun fact **I'm dream how to fix bugs**
 
