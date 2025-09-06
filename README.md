@@ -6,7 +6,7 @@
 
 <!-- Profile Views & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arzerra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arzerra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=arzerra&theme=onedark&row=1&column=6" alt="trophies" />
   </a>
