@@ -38,7 +38,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="center" justify="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,php,laravel,nodejs,express,mysql,python,java,flutter,dart,tailwind,firebase,tensorflow,figma,git,arduino" />
 </p>
 
