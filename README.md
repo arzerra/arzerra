@@ -54,14 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzerra&theme=tokyonight" alt="streak stats" height="180px"/>
 </p>
 
-## 📊 GitHub Stats
-![Arzerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arzerra&show_icons=true&theme=radical)
-
-## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Arzerra&theme=radical)
-
-## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzerra&layout=compact&theme=radical)
 ---
 
 ### ✨ Fun Quote
