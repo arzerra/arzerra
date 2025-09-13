@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm Clark!</h1>
-<h3 align="center">💻 Full-Stack Developer | 🚀 Lifelong Learner | 🎨 Code Artisan</h3>
+<h3 align="center">💻 Full-Stack Developer | 🎨 UI/UX Designer | 🚀 Aspiring Developer</h3>
 
 ---
 
@@ -33,11 +33,14 @@
   <a href="https://www.youtube.com/@ianclarkcanete6523" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+  <a href="https://ianclark.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,php,laravel,nodejs,express,mysql,python,java,flutter,dart,tailwind,firebase,tensorflow,figma,git,arduino" />
 </p>
@@ -46,12 +49,12 @@
 
 ### 📊 GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=arzerra&show_icons=true&theme=tokyonight" alt="stats" height="180px"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzerra&layout=compact&theme=tokyonight" alt="top langs" height="180px"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=arzerra&show_icons=true&theme=tokyonight&hide_border=false" alt="stats" height="170px"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzerra&layout=compact&theme=tokyonight&hide_border=false" alt="top langs" height="170px"/> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzerra&theme=tokyonight" alt="streak stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzerra&theme=tokyonight&hide_border=false" alt="streak stats" height="170px"/>
 </p>
 
 ---
