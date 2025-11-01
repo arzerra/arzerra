@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Ian Clark!</h1>
+<h1 align="center">Hi 👋, I'm Clark!</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UI/UX Designer | 🚀 Aspiring Developer</h3>
 
 ---
